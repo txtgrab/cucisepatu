@@ -47,7 +47,7 @@ Data disimpan dalam tabel `items` di Supabase dengan skema berikut:
 
 ## Dokumentasi API Endpoints
 
-**URL Deploy Vercel:** `[LINK_VERCEL_ANDA]` (Contoh: `https://laundry-sepatu-api.vercel.app`)
+**URL Deploy Vercel:** `[https://cucisepatu-five.vercel.app]`
 
 ---
 
