@@ -27,8 +27,8 @@ Data disimpan dalam tabel `items` di Supabase dengan skema berikut:
 
 1.  Clone repository ini:
     ```bash
-    git clone [https://github.com/USERNAME_ANDA/NAMA_REPO_ANDA.git](https://github.com/USERNAME_ANDA/NAMA_REPO_ANDA.git)
-    cd NAMA_REPO_ANDA
+    git clone [https://github.com/txtgrab/cucisepatu.git](https://github.com/txtgrab/cucisepatu.git)
+    cd cucisepatu
     ```
 2.  Install dependencies:
     ```bash
@@ -36,8 +36,8 @@ Data disimpan dalam tabel `items` di Supabase dengan skema berikut:
     ```
 3.  Buat file `.env` di root proyek dan isi dengan kredensial Supabase Anda:
     ```ini
-    SUPABASE_URL=https://PROYEK_ANDA.supabase.co
-    SUPABASE_KEY=KUNCI_ANON_ANDA
+    SUPABASE_URL=https://ybxmvpvqdzgnahdctkbf.supabase.co
+    SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlieG12cHZxZHpnbmFoZGN0a2JmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjEyMTc0NTIsImV4cCI6MjA3Njc5MzQ1Mn0.LuDiNbfGcoz441cpV4YU_cOSY6RWom-7HJIUKAaP1nk
     ```
 4.  Jalankan server:
     ```bash
@@ -58,5 +58,5 @@ Menambahkan data cucian baru.
 ```json
 {
   "customer_name": "Fajar Herdiansyah",
-  "shoe_type": "Nike Air Force 1"
+  "shoe_type": "Converse 70's HI"
 }
